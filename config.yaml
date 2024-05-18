@@ -1,4 +1,0 @@
-name: Projects
-format: snake_case
-default-config: yaml
-default-db: sqlite
