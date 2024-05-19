@@ -4,5 +4,11 @@
         "port": 3306,
         "username": "root",
         "password": "gemroomgtr0!"
+    },
+    "IoT&Robotics": {
+        "Boards": [
+            "Raspberry PI",
+            "Arduino"
+        ]
     }
 }
