@@ -1,11 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Main {
+public class MainWindow {
 
-
-    public Main() {
-        this.setTitle("");
+    public MainWindow() {
+        this.setTitle("Text Editor");
         this.setPreferredSize(new Dimension(500, 400));
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
@@ -13,6 +12,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        Main window = new Main();
+        MainWindow window = new MainWindow();
     }
 }
