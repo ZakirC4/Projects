@@ -8,7 +8,8 @@
     "IoT&Robotics": {
         "Boards": [
             "Raspberry PI",
-            "Arduino"
+            "Arduino",
+            "MicroBit"
         ]
     }
 }
