@@ -5,7 +5,7 @@
         "username": "root",
         "password": "gemroomgtr0!"
     },
-    "IoT&Robotics": {
+    "~IoT&Robotics": {
         "Boards": [
             "Raspberry PI",
             "Arduino",
