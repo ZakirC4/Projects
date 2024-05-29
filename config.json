@@ -8,8 +8,17 @@
     "IoT&Robotics": {
         "Boards": [
             "Raspberry PI",
+<<<<<<< HEAD
+            "Arduino"
+        ],
+        "Utilities": [
+            "breadboard",
+            "USB Both-Sided",
+            "Pins and LED"
+=======
             "Arduino",
             "MicroBit"
+>>>>>>> c1216b69b5aded18ec1a0f082dcbad312ca5dad2
         ]
     }
 }
