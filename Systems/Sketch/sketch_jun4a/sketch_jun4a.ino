@@ -1,17 +1,19 @@
-#include <LiquidCrystal.h>
+#include <Adafruit_LiquidCrystal.h>
+// #include <LiquidCrystal.h>
 
+#define SPEAKER 8
 #define TRIG 9
 #define ECHO 10
-#define SPEAKER 8
 
-LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
+Adafruit_LiquidCrystal lcd(0);
+// LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
 
 int duration, distance;
 
 void setup() {
-  lcd.begin(16, 2);
   pinMode(TRIG, OUTPUT);
   pinMode(ECHO, INPUT);
+  lcd.begin(16, 2);
   lcd.print("Distance: ");
   lcd.setCursor(0, 1);
 }
@@ -27,7 +29,7 @@ void loop() {
   distance = duration / 29.1 / 2;
 
   if (distance <= 10) {
-    tone(SPEAKER, 10000);
+    tone(SPEAKER, 1000);
   } else {
     noTone(SPEAKER);
   }
@@ -37,5 +39,5 @@ void loop() {
   lcd.print(distance);
   lcd.print(" cm");
 
-  delay(1000);
+  delay(500);
 }
