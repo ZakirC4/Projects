@@ -8,7 +8,9 @@
 </head>
 <body>
     <h1>Welcome to this server</h1>
-    <h2>Mobile Apps</h2>
-    <a href="{{ url_for('download_file', filename='TODO.aab') }}" download>TODO</a>
+    <h2>Apps</h2>
+    <ul>
+        <li><a href="{{ url_for('download_file', filename='TODO.aab') }}">- TODO</a></li>
+    </ul>
 </body>
 </html>
