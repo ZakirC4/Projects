@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TODO\bin\Release\net8.0-windows\TODO.exe
+C:\Users\User\source\repos\TODO\bin\Release\net8.0-windows\TODO.deps.json
+C:\Users\User\source\repos\TODO\bin\Release\net8.0-windows\TODO.runtimeconfig.json
+C:\Users\User\source\repos\TODO\bin\Release\net8.0-windows\TODO.dll
+C:\Users\User\source\repos\TODO\bin\Release\net8.0-windows\TODO.pdb
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.Form1.resources
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.AssemblyInfo.cs
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.dll
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\refint\TODO.dll
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.pdb
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\TODO.genruntimeconfig.cache
+C:\Users\User\source\repos\TODO\obj\Release\net8.0-windows\ref\TODO.dll
